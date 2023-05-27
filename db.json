@@ -1,46 +1,108 @@
 {
-    "suraj": [
-      {
-        "name": "Black Dog",
-        "age": "2",
-        "gender": "Male",
-        "place": "Mirzapur",
-        "id": 2
-      },
-      {
-        "name": "White Dog",
-        "age": "8",
-        "gender": "Female",
-        "place": "Varanasi",
-        "id": 3
-      },
-      {
-        "name": "Tummy Dog",
-        "age": "6",
-        "gender": "Male",
-        "place": "Bhadohi",
-        "id": 4
-      },
-      {
-        "name": "Cute Dog",
-        "age": "4",
-        "gender": "Female",
-        "place": "Delhi",
-        "id": 5
-      },
-      {
-        "name": "Angry Dog",
-        "age": "5",
-        "gender": "Male",
-        "place": "Noaida",
-        "id": 6
-      },
-      {
-        "name": "Normal Dog",
-        "age": "3",
-        "gender": "Female",
-        "place": "Visakhapatnam",
-        "id": 7
-      }
-    ]
-  }
+  "users": [
+    {
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "password": "123",
+      "isDoctor": false,
+      "id": 1
+    },
+    {
+      "username": "ramsurat",
+      "email": "ramsurat@gmail.com",
+      "password": "123",
+      "isDoctor": true,
+      "id": 2
+    }
+  ],
+  "appointments": [
+    {
+      "name": "Mark Johnson",
+      "image_url": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "2023-05-26",
+      "slots": "1",
+      "fee": "100",
+      "id": 2
+    },
+    {
+      "name": "Jane Doe",
+      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+      "specialization": "dermatologist",
+      "experience": "10",
+      "location": "Los Angeles",
+      "date": "",
+      "slots": "5",
+      "fee": "150",
+      "id": 3
+    },
+    {
+      "name": "Mark Johnson",
+      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "",
+      "slots": "1",
+      "fee": "150",
+      "id": 4
+    },
+    {
+      "name": "Mark Johnson",
+      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "",
+      "slots": "1",
+      "fee": "150",
+      "id": 5
+    },
+    {
+      "name": "Mark Johnson",
+      "image_url": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "2023-05-26",
+      "slots": "1",
+      "fee": "100",
+      "id": 6
+    },
+    {
+      "name": "Jane Doe",
+      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+      "specialization": "dermatologist",
+      "experience": "10",
+      "location": "Los Angeles",
+      "date": "",
+      "slots": "5",
+      "fee": "150",
+      "id": 7
+    },
+    {
+      "name": "Mark Johnson",
+      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "",
+      "slots": "1",
+      "fee": "150",
+      "id": 8
+    },
+    {
+      "name": "Mark Johnson",
+      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+      "specialization": "pediatrician",
+      "experience": "5",
+      "location": "Chicago",
+      "date": "",
+      "slots": "1",
+      "fee": "150",
+      "id": 9
+    }
+  ]
+}
