@@ -3,106 +3,10 @@
     {
       "username": "ram",
       "email": "ram@gmail.com",
+      "avatar": "https://www.w3schools.com/howto/img_avatar.png",
       "password": "123",
-      "isDoctor": false,
       "id": 1
-    },
-    {
-      "username": "ramsurat",
-      "email": "ramsurat@gmail.com",
-      "password": "123",
-      "isDoctor": true,
-      "id": 2
     }
   ],
-  "appointments": [
-    {
-      "name": "Mark Johnson",
-      "image_url": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
-      "specialization": "pediatrician",
-      "experience": "5",
-      "location": "Chicago",
-      "date": "2023-05-26",
-      "slots": "1",
-      "fee": "100",
-      "id": 2
-    },
-    {
-      "name": "Jane Doe",
-      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
-      "specialization": "dermatologist",
-      "experience": "10",
-      "location": "Los Angeles",
-      "date": "",
-      "slots": "5",
-      "fee": "150",
-      "id": 3
-    },
-    {
-      "name": "Mark Johnson",
-      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
-      "specialization": "pediatrician",
-      "experience": "5",
-      "location": "Chicago",
-      "date": "",
-      "slots": "1",
-      "fee": "150",
-      "id": 4
-    },
-    {
-      "name": "Mark Johnson",
-      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
-      "specialization": "pediatrician",
-      "experience": "5",
-      "location": "Chicago",
-      "date": "",
-      "slots": "1",
-      "fee": "150",
-      "id": 5
-    },
-    {
-      "name": "Mark Johnson",
-      "image_url": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
-      "specialization": "pediatrician",
-      "experience": "5",
-      "location": "Chicago",
-      "date": "2023-05-26",
-      "slots": "1",
-      "fee": "100",
-      "id": 6
-    },
-    {
-      "name": "Jane Doe",
-      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
-      "specialization": "dermatologist",
-      "experience": "10",
-      "location": "Los Angeles",
-      "date": "",
-      "slots": "5",
-      "fee": "150",
-      "id": 7
-    },
-    {
-      "name": "Mark Johnson",
-      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
-      "specialization": "pediatrician",
-      "experience": "5",
-      "location": "Chicago",
-      "date": "",
-      "slots": "1",
-      "fee": "150",
-      "id": 8
-    },
-    {
-      "name": "Mark Johnson",
-      "image_url": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
-      "specialization": "pediatrician",
-      "experience": "5",
-      "location": "Chicago",
-      "date": "",
-      "slots": "1",
-      "fee": "150",
-      "id": 9
-    }
-  ]
+  "forum": []
 }
